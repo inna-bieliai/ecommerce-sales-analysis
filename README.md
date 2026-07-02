@@ -37,11 +37,9 @@ ecommerce-sales-analysis/
 ## 📊 Tableau Dashboards
 
 **Dashboard 1 — Sales & Profitability Analysis:**
-https://public.tableau.com/app/profile/inna.bieliai/viz/superstore_analysis_17822905228680/SalesProfitabilityAnalysisSampleSuperstore
-
+https://public.tableau.com/app/profile/inna.bieliai/viz/superstore1_17822889555960/SalesProfitabilityAnalysisSampleSuperstore
 **Dashboard 2 — Customer & Discount Analysis:**
-https://public.tableau.com/app/profile/inna.bieliai/viz/superstore_analysis_17822905228680/CustomerDiscountAnalysis
-
+https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_17822902645390/CustomerDiscountAnalysis
 ---
 
 ## 🔍 Key Findings
