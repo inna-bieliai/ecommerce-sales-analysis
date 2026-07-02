@@ -83,9 +83,9 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 
 ---
 ## 📌 Tools Used
-- **SQL (DBeaver)
-- **Tableau
-- **Data cleaning & analysis techniques
+- SQL (DBeaver)
+- Tableau
+- Data cleaning & analysis techniques
 
 ---
 ## 🛠️ SQL Concepts Used
@@ -98,5 +98,4 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 - Type casting (`::numeric`) for precise calculations
 - `TO_DATE()` for text-to-date conversion
 
-## 💬 This project helped me strengthen my skills in SQL, data analysis, and data visualization.
-I focus on turning raw data into clear and actionable business insights.
+## 💬 This project helped me strengthen my skills in SQL, data analysis, and data visualization. I focus on turning raw data into clear and actionable business insights.
