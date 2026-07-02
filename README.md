@@ -35,6 +35,15 @@ ecommerce-sales-analysis/
 ---
 
 ## 📊 Tableau Dashboards
+An interactive Tableau dashboard was created to visualize key business insights.
+
+The dashboard includes:
+
+Overall sales and revenue performance
+Top-performing products and categories
+Revenue trends over time
+Seasonal patterns in sales
+Interactive filters for deeper analysis
 
 **Dashboard 1 — Sales & Profitability Analysis:**
 https://public.tableau.com/app/profile/inna.bieliai/viz/superstore1_17822889555960/SalesProfitabilityAnalysisSampleSuperstore
@@ -44,7 +53,7 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 
 ---
 
-## 🔍 Key Findings
+## 🔍 Key Insights
 
 1. **Technology leads in profitability** — 17.4% profit margin vs 2.5% for Furniture
 2. **Business is growing** — Sales grew +29% in 2016 and +20% in 2017 after a slight dip in 2015
@@ -73,7 +82,12 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 - **Key fields:** Order Date, Category, Sub-Category, Product Name, Sales, Profit, Discount, Region, Segment
 
 ---
+##📌 Tools Used
+-SQL (DBeaver)
+-Tableau
+-Data cleaning & analysis techniques
 
+---
 ## 🛠️ SQL Concepts Used
 - `GROUP BY` with aggregate functions (`SUM`, `COUNT`, `AVG`, `ROUND`)
 - `HAVING` for post-aggregation filtering
@@ -83,3 +97,6 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 - `UNION ALL` for combining result sets
 - Type casting (`::numeric`) for precise calculations
 - `TO_DATE()` for text-to-date conversion
+
+##💬 This project helped me strengthen my skills in SQL, data analysis, and data visualization.
+I focus on turning raw data into clear and actionable business insights.
