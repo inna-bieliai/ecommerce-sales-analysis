@@ -41,6 +41,7 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore1_178228895559
 
 **Dashboard 2 — Customer & Discount Analysis:**
 https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_17822902645390/CustomerDiscountAnalysis
+
 ---
 
 ## 🔍 Key Findings
