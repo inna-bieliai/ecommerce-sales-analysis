@@ -3,7 +3,10 @@
 ## Project Overview
 End-to-end data analysis project exploring sales performance, profitability, and customer behavior using the Sample Superstore dataset. The analysis covers 4 years of data (2014–2017) with 9,994 orders across the United States.
 
-**Tools used:** PostgreSQL · SQL (DBeaver) · Tableau
+## 📌 Tools Used
+- SQL (DBeaver)
+- Tableau
+- Data cleaning & analysis techniques
 
 ---
 
@@ -81,11 +84,6 @@ https://public.tableau.com/app/profile/inna.bieliai/viz/superstore2_178229026453
 - **Size:** 9,994 rows · 21 columns
 - **Key fields:** Order Date, Category, Sub-Category, Product Name, Sales, Profit, Discount, Region, Segment
 
----
-## 📌 Tools Used
-- SQL (DBeaver)
-- Tableau
-- Data cleaning & analysis techniques
 
 ---
 ## 🛠️ SQL Concepts Used
