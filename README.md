@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analysis | Sample Superstore
+# 📊 E-commerce Sales Analysis (SQL+Tableau) | Sample Superstore
 
 ## Project Overview
 End-to-end data analysis project exploring sales performance, profitability, and customer behavior using the Sample Superstore dataset. The analysis covers 4 years of data (2014–2017) with 9,994 orders across the United States.
